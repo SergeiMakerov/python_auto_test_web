@@ -1,0 +1,7 @@
+url: "https://test-stand.gb.ru/gateway/login"
+url_posts: "https://test-stand.gb.ru/api/posts"
+login: 'Wolf'
+password: '279ede0c6b'
+title: 'New post for test'
+description: 'Create new post'
+content: 'You can add something here'
